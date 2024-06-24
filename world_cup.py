@@ -5,3 +5,6 @@ if tmp.title() == 'India':
 
 else:
     print('okay')
+
+
+print('"End of world cup')
