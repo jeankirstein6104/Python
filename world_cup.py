@@ -8,3 +8,4 @@ else:
 
 
 print('"End of world cup')
+print('bye')
